@@ -1,2 +1,2 @@
-# Matrix-Reaktywacja
-Reguły gry
+# Projekt Transformacja- Matrix
+Pięć dni z projektu Transformacja- część pierwsza
